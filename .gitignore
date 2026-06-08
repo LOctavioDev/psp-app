@@ -1,0 +1,13 @@
+# Archivos objeto de C
+*.o
+
+# Archivos binarios ejecutables del PSP
+*.elf
+*.prx
+
+# Empaquetado final del juego y metadatos
+EBOOT.PBP
+PARAM.SFO
+
+# Archivos del sistema
+.DS_Store
